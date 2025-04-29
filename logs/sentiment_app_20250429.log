@@ -1,0 +1,148 @@
+2025-04-29 14:25:30,554 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 14:25:30,803 - sentiment-analysis-ui - INFO - First run - loading model for this session
+2025-04-29 14:25:30,803 - sentiment-analysis-ui - INFO - Attempting to load model sentiment-analysis@champion from MLflow Registry
+2025-04-29 14:25:30,803 - sentiment-analysis-ui - INFO - MLflow tracking URI set to: http://localhost:5000
+2025-04-29 14:25:30,803 - sentiment-analysis-ui - INFO - Loading model from URI: models:/sentiment-analysis@champion
+2025-04-29 14:25:53,439 - sentiment-analysis-ui - INFO - Model loaded successfully
+2025-04-29 14:26:10,791 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 14:26:10,984 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 14:26:10,987 - sentiment-analysis-ui - INFO - Processing text: 'That was a great product!'
+2025-04-29 14:26:50,086 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 14:26:50,091 - sentiment-analysis-ui - INFO - Processing text: 'That was a great product!'
+2025-04-29 14:26:51,135 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 14:26:51,137 - sentiment-analysis-ui - INFO - Processing text: 'That was a great product!'
+2025-04-29 14:47:26,124 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 14:47:26,126 - sentiment-analysis-ui - INFO - Processing text: 'That was a great product!'
+2025-04-29 14:49:21,230 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 14:49:21,464 - sentiment-analysis-ui - INFO - First run - loading model for this session
+2025-04-29 14:49:21,464 - sentiment-analysis-ui - INFO - Attempting to load model sentiment-analysis@champion from MLflow Registry
+2025-04-29 14:49:21,464 - sentiment-analysis-ui - INFO - MLflow tracking URI set to: http://localhost:5000
+2025-04-29 14:49:21,464 - sentiment-analysis-ui - INFO - Loading model from URI: models:/sentiment-analysis@champion
+2025-04-29 14:49:21,515 - sentiment-analysis-ui - WARNING - Failed to load model for session
+2025-04-29 14:49:21,515 - sentiment-analysis-ui - WARNING - Application running without a model loaded
+2025-04-29 14:54:04,545 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 14:54:04,565 - sentiment-analysis-ui - INFO - First run - loading model for this session
+2025-04-29 14:54:04,565 - sentiment-analysis-ui - INFO - Attempting to load model sentiment-analysis@champion from MLflow Registry
+2025-04-29 14:54:04,640 - sentiment-analysis-ui - WARNING - Failed to load model for session
+2025-04-29 14:54:04,640 - sentiment-analysis-ui - WARNING - Application running without a model loaded
+2025-04-29 15:01:19,017 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:01:19,290 - sentiment-analysis-ui - INFO - First run - loading model for this session
+2025-04-29 15:01:19,290 - sentiment-analysis-ui - INFO - Attempting to load model sentiment-analysis@champion from MLflow Registry
+2025-04-29 15:01:19,290 - sentiment-analysis-ui - INFO - MLflow tracking URI set to: http://localhost:5000
+2025-04-29 15:01:19,290 - sentiment-analysis-ui - INFO - Loading model from URI: models:/sentiment-analysis@champion
+2025-04-29 15:01:40,635 - sentiment-analysis-ui - INFO - Model loaded successfully
+2025-04-29 15:04:51,252 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:04:51,467 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:04:51,469 - sentiment-analysis-ui - INFO - Processing text: 'good product'
+2025-04-29 15:05:59,807 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:05:59,814 - sentiment-analysis-ui - INFO - First run - loading model for this session
+2025-04-29 15:05:59,815 - sentiment-analysis-ui - INFO - Attempting to load model sentiment-analysis@champion from MLflow Registry
+2025-04-29 15:05:59,816 - sentiment-analysis-ui - INFO - MLflow tracking URI set to: http://localhost:5000
+2025-04-29 15:06:18,805 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:06:19,018 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:06:19,022 - sentiment-analysis-ui - INFO - Processing text: 'good product'
+2025-04-29 15:06:35,324 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:06:35,324 - sentiment-analysis-ui - INFO - Processing text: 'good product'
+2025-04-29 15:06:50,117 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:06:50,334 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:06:50,334 - sentiment-analysis-ui - INFO - Processing text: '"good product"'
+2025-04-29 15:07:04,596 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:07:04,816 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:07:04,818 - sentiment-analysis-ui - INFO - Processing text: 'good product'
+2025-04-29 15:10:01,138 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:10:01,146 - sentiment-analysis-ui - INFO - First run - loading model for this session
+2025-04-29 15:10:01,148 - sentiment-analysis-ui - INFO - Attempting to load model sentiment-analysis@champion from MLflow Registry
+2025-04-29 15:10:01,148 - sentiment-analysis-ui - INFO - MLflow tracking URI set to: http://localhost:5000
+2025-04-29 15:10:22,076 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:10:22,259 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:10:22,270 - sentiment-analysis-ui - INFO - Processing text: 'good product'
+2025-04-29 15:10:22,661 - sentiment-analysis-ui - INFO - Prediction result: LABEL_1 with confidence 0.9905 (took 0.39s)
+2025-04-29 15:10:22,675 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:10:39,185 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:10:40,561 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:10:40,561 - sentiment-analysis-ui - INFO - Processing text: 'bad product'
+2025-04-29 15:10:40,599 - sentiment-analysis-ui - INFO - Prediction result: LABEL_0 with confidence 0.9881 (took 0.03s)
+2025-04-29 15:10:40,603 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:10:52,297 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:10:52,595 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:10:52,598 - sentiment-analysis-ui - INFO - Processing text: 'I am happy with what I received.'
+2025-04-29 15:10:52,621 - sentiment-analysis-ui - INFO - Prediction result: LABEL_1 with confidence 0.9846 (took 0.02s)
+2025-04-29 15:10:52,627 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:11:15,205 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:11:15,407 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:11:15,420 - sentiment-analysis-ui - INFO - Processing text: 'I liked the product! Very good'
+2025-04-29 15:11:15,464 - sentiment-analysis-ui - INFO - Prediction result: LABEL_1 with confidence 0.9939 (took 0.04s)
+2025-04-29 15:11:15,472 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:12:06,015 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:12:11,393 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:12:11,399 - sentiment-analysis-ui - INFO - Processing text: 'I did not like the product'
+2025-04-29 15:12:11,423 - sentiment-analysis-ui - INFO - Prediction result: LABEL_0 with confidence 0.9866 (took 0.02s)
+2025-04-29 15:12:11,430 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:13:25,260 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:13:25,267 - sentiment-analysis-ui - INFO - First run - loading model for this session
+2025-04-29 15:13:25,268 - sentiment-analysis-ui - INFO - Attempting to load model sentiment-analysis@champion from MLflow Registry
+2025-04-29 15:13:25,269 - sentiment-analysis-ui - INFO - MLflow tracking URI set to: http://localhost:5000
+2025-04-29 15:13:37,727 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:13:37,942 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:13:37,947 - sentiment-analysis-ui - INFO - Processing text: 'I liked the product!'
+2025-04-29 15:13:38,135 - sentiment-analysis-ui - INFO - Prediction result: LABEL_1 with confidence 0.9893 (took 0.19s)
+2025-04-29 15:13:38,137 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:14:02,921 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:14:03,141 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:14:03,147 - sentiment-analysis-ui - INFO - Processing text: 'I did not like the product!'
+2025-04-29 15:14:03,168 - sentiment-analysis-ui - INFO - Prediction result: LABEL_0 with confidence 0.9889 (took 0.02s)
+2025-04-29 15:14:03,170 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:14:59,967 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:14:59,977 - sentiment-analysis-ui - INFO - First run - loading model for this session
+2025-04-29 15:14:59,977 - sentiment-analysis-ui - INFO - Attempting to load model sentiment-analysis@champion from MLflow Registry
+2025-04-29 15:14:59,977 - sentiment-analysis-ui - INFO - MLflow tracking URI set to: http://localhost:5000
+2025-04-29 15:15:11,175 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:15:11,384 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:15:11,387 - sentiment-analysis-ui - INFO - Processing text: 'Great product!'
+2025-04-29 15:15:11,687 - sentiment-analysis-ui - INFO - Prediction result: LABEL_1 with confidence 0.9941 (took 0.30s)
+2025-04-29 15:15:11,694 - sentiment-analysis-ui - INFO - Displayed positive sentiment result to user
+2025-04-29 15:15:35,949 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:15:36,113 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:15:36,117 - sentiment-analysis-ui - INFO - Processing text: 'I am somewhat happy with the product but not entir...'
+2025-04-29 15:15:36,147 - sentiment-analysis-ui - INFO - Prediction result: LABEL_0 with confidence 0.9266 (took 0.03s)
+2025-04-29 15:15:36,150 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:15:53,857 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:16:25,787 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:16:26,002 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:16:26,008 - sentiment-analysis-ui - INFO - Processing text: 'I am waiting for the product'
+2025-04-29 15:16:26,031 - sentiment-analysis-ui - INFO - Prediction result: LABEL_0 with confidence 0.9158 (took 0.02s)
+2025-04-29 15:16:26,034 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:16:38,837 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:16:39,067 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:16:39,080 - sentiment-analysis-ui - INFO - Processing text: 'Can be better. cheers!'
+2025-04-29 15:16:39,108 - sentiment-analysis-ui - INFO - Prediction result: LABEL_1 with confidence 0.9497 (took 0.02s)
+2025-04-29 15:16:39,115 - sentiment-analysis-ui - INFO - Displayed positive sentiment result to user
+2025-04-29 15:17:57,797 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:17:57,972 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:17:57,977 - sentiment-analysis-ui - INFO - Processing text: 'My husband and I celebrated our anniversary here a...'
+2025-04-29 15:17:58,037 - sentiment-analysis-ui - INFO - Prediction result: LABEL_1 with confidence 0.9920 (took 0.05s)
+2025-04-29 15:17:58,045 - sentiment-analysis-ui - INFO - Displayed positive sentiment result to user
+2025-04-29 15:19:17,731 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:19:17,977 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:19:17,977 - sentiment-analysis-ui - INFO - Processing text: '“Your tone in written communication can be too for...'
+2025-04-29 15:19:18,002 - sentiment-analysis-ui - INFO - Prediction result: LABEL_0 with confidence 0.9748 (took 0.02s)
+2025-04-29 15:19:18,002 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:19:23,872 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:20:15,091 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:20:15,223 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:20:15,225 - sentiment-analysis-ui - INFO - Processing text: 'Ordered XXL
+RCVD L
+ORDER PINK COLOR
+RCVD GREY COLO...'
+2025-04-29 15:20:15,245 - sentiment-analysis-ui - INFO - Prediction result: LABEL_0 with confidence 0.9678 (took 0.02s)
+2025-04-29 15:20:15,247 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
+2025-04-29 15:20:40,497 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:20:40,627 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:20:40,628 - sentiment-analysis-ui - INFO - Processing text: 'Nice product in affordable price. Good for daily w...'
+2025-04-29 15:20:40,649 - sentiment-analysis-ui - INFO - Prediction result: LABEL_1 with confidence 0.9927 (took 0.02s)
+2025-04-29 15:20:40,651 - sentiment-analysis-ui - INFO - Displayed positive sentiment result to user
+2025-04-29 15:20:51,062 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:20:51,187 - sentiment-analysis-ui - INFO - Starting Sentiment Analysis Streamlit application
+2025-04-29 15:20:51,188 - sentiment-analysis-ui - INFO - Processing text: 'Despite slim fit the size is somewhat loose and co...'
+2025-04-29 15:20:51,208 - sentiment-analysis-ui - INFO - Prediction result: LABEL_0 with confidence 0.6832 (took 0.02s)
+2025-04-29 15:20:51,209 - sentiment-analysis-ui - INFO - Displayed negative sentiment result to user
