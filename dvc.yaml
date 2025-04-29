@@ -1,0 +1,33 @@
+stages:
+  process_train_data:
+    cmd: python src/data/load_data.py --input data/raw/train.ft.txt.bz2 --output data/processed/train.csv --num-lines 3000
+    deps:
+      - src/data/load_data.py
+      - data/raw/train.ft.txt.bz2
+    outs:
+      - data/processed/train.csv
+      
+  process_test_data:
+    cmd: python src/data/load_data.py --input data/raw/test.ft.txt.bz2 --output data/processed/test.csv --num-lines 2000
+    deps:
+      - src/data/load_data.py
+      - data/raw/test.ft.txt.bz2
+    outs:
+      - data/processed/test.csv
+  
+  train_model:
+    cmd: >
+      python src/models/train_model.py 
+      --train-data data/processed/train.csv 
+      --test-data data/processed/test.csv 
+      --model-name distilbert-base-uncased 
+      --output-dir models/sentiment
+    deps:
+      - src/models/train_model.py
+      - data/processed/train.csv
+      - data/processed/test.csv
+    outs:
+      - models/sentiment
+    metrics:
+      - metrics.json:
+          cache: false
