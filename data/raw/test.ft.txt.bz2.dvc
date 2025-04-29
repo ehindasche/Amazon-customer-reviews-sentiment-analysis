@@ -1,0 +1,5 @@
+outs:
+- md5: 857269324797199268658e4d0ee925dd
+  size: 52653659
+  hash: md5
+  path: test.ft.txt.bz2

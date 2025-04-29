@@ -1,0 +1,5 @@
+outs:
+- md5: 828758acdafd487421397fb17c0e5e4f
+  size: 464275989
+  hash: md5
+  path: train.ft.txt.bz2
