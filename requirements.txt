@@ -1,0 +1,19 @@
+# Data processing
+pandas==2.2.3
+numpy==1.26.4
+
+# ML libraries
+transformers==4.51.3
+torch==2.3.1
+scikit-learn==1.6.1
+accelerate>=1.6.0
+datasets==3.5.0
+
+# MLOps tools
+mlflow==2.21.2
+dvc==3.59.1
+fastapi==0.115.12
+uvicorn==0.34.2
+streamlit==1.43.2
+prometheus-client==0.21.1
+pydantic==1.10.22
